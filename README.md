@@ -1,4 +1,4 @@
-# iac-aws-devopsbox-pk: Building customs AMI with packer
+# iac-aws-devopsbox-pkr: Building customs AMI with packer
 
 Showcase to demonstrate how-to build custom AMIs with [Packer](https://www.packer.io/).
 
